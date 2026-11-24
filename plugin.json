@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mistral-skills-mattpocock",
+  "version": "1.0.0",
+  "description": "Skills for Real Engineers de Matt Pocock, portées pour Vibe Code (spec, TDD, code review, debugging...)."
+}
